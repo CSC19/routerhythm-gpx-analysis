@@ -63,11 +63,11 @@ Der Anwendungscode selbst ist nicht öffentlich zugänglich.
  │     ├── pdf-reports/
  │     │     ├── example-report.pdf
  ├── docs/
- │     ├── features.md
- │     ├── passes-detection.md
  │     ├── data-processing.md
+ │     ├── features.md
  │     ├── output-formats.md
  │     ├── privacy.md
+ │     ├── terms.md             
  ├── changelog.md
  ├── roadmap.md
 ```
