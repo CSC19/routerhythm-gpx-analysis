@@ -45,10 +45,16 @@ Der Anwendungscode selbst ist nicht öffentlich zugänglich.
 /routerhythm-gpx-analysis
  ├── README.md
  ├── screenshots/
- │     ├── dashboard.png
- │     ├── map-view.png
- │     ├── elevation-profile.png
- │     ├── passes-detection.png
+ │     ├── 01_Landing_Page.png
+ │     ├── 02_Login.png
+ │     ├── 03_Dashboard.png
+ │     ├── 04_Statistik_Pässe.png
+ │     ├── 06_Statistk_Tour.png
+ │     ├── 07_HTML-MAP-Tour.png
+ │     ├── 08_HTML-MAP-Tour.png
+ │     ├── 09_HTML-MAP-Pass.png
+ │     ├── 10_HTML-MAP-Kehre.png
+ │     ├── 11_Elevation-Profile.png
  ├── examples/
  │     ├── sample-track.gpx
  ├── outputs/
